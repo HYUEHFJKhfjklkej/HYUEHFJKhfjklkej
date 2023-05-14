@@ -27,7 +27,11 @@
   </a>
 </p>
 <br>
+
 ### Leet Code:
-  <img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=HYUEHFJKhfjklkej&theme=dark">
-<br>
+  [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=HYUEHFJKhfjklkej&theme=dark">](https://leetcode.com/HYUEHFJKhfjklkej/)
+  
  
+<!-- <br> -->
+<!-- [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=HYUEHFJKhfjklkej&theme=dark)](https://leetcode.com/HYUEHFJKhfjklkej/) -->
+<!-- <br><br> -->

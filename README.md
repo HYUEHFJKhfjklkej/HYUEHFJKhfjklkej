@@ -2,9 +2,9 @@
 
 <p align="center">
   <br><br>
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=55&center=true&vCenter=true&width=1000&height=140&lines=Hello+my+name+is+Nikita;">
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=1200&height=140&lines=DevOps+%7C+SRE+Engineer;">
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=45&center=true&vCenter=true&width=1400&height=140&lines=C%2FC%2B%2B+%7C+Python+%7C+Linux+%7C+Kubernetes;">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=55&center=true&vCenter=true&width=1200&height=140&lines=Hello+my+name+is+Nikita;">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=1400&height=140&lines=DevOps+%7C+SRE+Engineer;">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=45&center=true&vCenter=true&width=1600&height=140&lines=C%2FC%2B%2B+%7C+Python+%7C+Linux+%7C+Kubernetes;">
 </p>
 
 <br>
@@ -14,15 +14,10 @@
 ### 🧠 About Me
 
 - DevOps / SRE engineer with **strong background in C/C++ and Python**
-- Deep understanding of **Linux internals, networking, processes, memory**
+- Deep understanding of **Linux internals, networking, processes and memory**
 - Experience operating and debugging **production systems**
 - Comfortable at the boundary between **infrastructure and low-level code**
 - Prefer **automation, observability and reliability over magic**
-
----
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYUEHFJKhfjklkej&langs_count=8&theme=material-palenight&layout=compact">
-<img width="58%" src="https://github-readme-stats.vercel.app/api?username=HYUEHFJKhfjklkej&show_icons=true&count_private=true&theme=nord">
 
 ---
 
@@ -52,7 +47,7 @@
 
 - Kubernetes internals & networking
 - High-load and fault-tolerant systems
-- Observability (metrics, logs, tracing)
+- Observability: metrics, logs, tracing
 - Performance profiling & debugging
 - Infrastructure automation
 - Low-level Linux debugging (strace, perf, gdb)
@@ -61,10 +56,19 @@
 
 ### 🧠 Problem Solving
 
-[![LeetCode Stats](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=darkorange&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHYUEHFJKhfjklkej&logo=leetcode&logoColor=yellow)](https://leetcode.com/HYUEHFJKhfjklkej/)
+- Algorithms and data structures (LeetCode)
+- System-level problem solving
+- Focus on correctness, performance and reliability
+
+LeetCode profile:  
+🔗 https://leetcode.com/HYUEHFJKhfjklkej/
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="95%" src="https://leetcode-stats-six.vercel.app/api?username=HYUEHFJKhfjklkej&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=HYUEHFJKhfjklkej&show_icons=true&count_private=true&theme=nord">
 </p>
 
 ---

@@ -56,9 +56,13 @@
 
 ### 🧠 Problem Solving
 
-- Algorithms and data structures (LeetCode)
-- System-level problem solving
-- Focus on correctness, performance and reliability
+- Algorithms and data structures
+- System-level thinking
+- Focus on correctness and performance
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/HYUEHFJKhfjklkej?theme=dark&font=Roboto&ext=heatmap">
+</p>
 
 LeetCode profile:  
 🔗 https://leetcode.com/HYUEHFJKhfjklkej/
